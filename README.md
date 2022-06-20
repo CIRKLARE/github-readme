@@ -2,11 +2,14 @@
 github readme
 
 add photo to readme
+
 ![Name](url to photo)
 
 `important text`
 
 # high-lighted-text
+
+# commands
 
 	sudo apt install nmap
 	python3 -m http.server 80
